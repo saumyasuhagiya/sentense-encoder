@@ -12,4 +12,14 @@ ok-http:
   connection-properties:
     connect-timeout: 20000
     write-timeout: 20000
+<<<<<<< HEAD
     read-timeout: 20000
+=======
+    read-timeout: 20000
+
+
+tf:
+  api:
+    encoder:
+      url: http://localhost:8080/tf/encode
+>>>>>>> Initial commit

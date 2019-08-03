@@ -12,6 +12,10 @@ import java.util.ArrayList;
 @Builder
 @AllArgsConstructor
 public class EncoderRequestDto {
+<<<<<<< HEAD
   private ArrayList<String> sentenses;
+=======
+  private ArrayList<String> sentences;
+>>>>>>> Initial commit
   private String version;
 }

@@ -15,5 +15,9 @@ public class EncoderResponse {
 
   private Integer id;
   private String sentence;
+<<<<<<< HEAD
   private ArrayList<SementicValues> sementicValues;
+=======
+  private ArrayList<SemanticValues> semanticValues;
+>>>>>>> Initial commit
 }
