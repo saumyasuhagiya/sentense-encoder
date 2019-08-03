@@ -1,0 +1,9 @@
+server:
+  port: 20990
+
+spring:
+  application:
+    name: salesken-universal-encoder
+
+  profiles:
+    active: staging
